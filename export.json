@@ -1,0 +1,654 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-05-15T15:26:46Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "lat": 30.4589803,
+      "lon": 78.0951087,
+      "name": "Landour Community hospital"
+    },
+    {
+      "lat": 30.3179409,
+      "lon": 78.0500178,
+      "name": "Heart Clinic"
+    },
+    {
+      "lat": 30.319395,
+      "lon": 78.0503182,
+      "name": "General Hospital"
+    },
+    {
+      "lat": 30.3121892,
+      "lon": 78.0474883,
+      "name": "CMI"
+    },
+    {
+      "lat": 30.3328985,
+      "lon": 78.0086156,
+      "name": "Ashirwad Hospital"
+    },
+    {
+      "lat": 30.3329685,
+      "lon": 78.0101122,
+
+      "name": "Astha Hospital"
+    },
+    {
+      "lat": 30.4488078,
+      "lon": 78.0901685,
+
+      "name": "Wynberg Health Center"
+    },
+    {
+      "lat": 30.3380984,
+      "lon": 78.013544,
+
+      "name": "Synergy Hospital;Synergy Institute Of Medical Science"
+    },
+    {
+      "lat": 30.3430865,
+      "lon": 77.9596015,
+
+      "name": "SUBHARTI HOSPITAL"
+    },
+    {
+      "lat": 30.4169652,
+      "lon": 77.9676696,
+
+      "name": "INFIRMARY"
+    },
+    {
+      "lat": 30.3196005,
+      "lon": 78.0422984,
+
+      "name": "Government Doon Hospital"
+    },
+    {
+      "lat": 30.3184253,
+      "lon": 78.0424823,
+
+      "name": "wedding by fourth munky"
+    },
+    {
+      "lat": 30.3207776,
+      "lon": 78.0576667,
+
+      "name": "Deen Dayal Upadhyay hospital"
+    },
+    {
+      "lat": 30.0808844,
+      "lon": 78.2861301,
+
+      "name": "AIIMS's Blood Bank Rishikesh"
+    },
+    {
+      "lat": 30.0808782,
+      "lon": 78.2864837,
+
+      "name": "AIIMS Blood Bank, Rishikesh"
+    },
+    {
+      "lat": 30.304785,
+      "lon": 78.0209032,
+
+      "name": "Shri Mahant Indiresh Hospital"
+    },
+    {
+      "lat": 30.2909374,
+      "lon": 78.0498482,
+
+      "name": "Surya Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3068298,
+      "lon": 78.0540472,
+
+      "name": "Param Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3163536,
+      "lon": 78.054412,
+
+      "name": "Yash Respiratory and Medical Disease Centre"
+    },
+    {
+      "lat": 30.3363706,
+      "lon": 78.0223811,
+
+      "name": "Vishal Eye Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3338774,
+      "lon": 78.0235478,
+
+      "name": "Vardaan Children Hospital"
+    },
+    {
+      "lat": 30.2820388,
+      "lon": 78.002518,
+
+      "name": "Vaidya Chandra Prakash Cancer Research Foundation"
+    },
+    {
+      "lat": 30.382057,
+      "lon": 78.0886424,
+
+      "name": "Uttranchal Ayurvedic Hospital"
+    },
+    {
+      "lat": 30.1798225,
+      "lon": 78.123208,
+
+      "name": "CHC Doiwala"
+    },
+    {
+      "lat": 30.4719649,
+      "lon": 77.7767081,
+
+      "name": "Chauhan Hospital"
+    },
+    {
+      "lat": 30.3371647,
+      "lon": 78.0219117,
+
+      "name": "Chandra Hospital"
+    },
+    {
+      "lat": 30.3112213,
+      "lon": 78.04785,
+
+      "name": "Guru Teg Bahadur Sahib Hospital"
+    },
+    {
+      "lat": 30.282846,
+      "lon": 78.0685231,
+
+      "name": "Govind Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3271255,
+      "lon": 78.0658168,
+
+      "name": "Healing Touch Hospital"
+    },
+    {
+      "lat": 30.2875988,
+      "lon": 78.0231428,
+
+      "name": "Kala E.N.T And Laser Centre"
+    },
+    {
+      "lat": 30.4483164,
+      "lon": 77.7554543,
+
+      "name": "Herbertpur Christian Hospital"
+    },
+    {
+      "lat": 30.3316376,
+      "lon": 78.0538367,
+
+      "name": "Jan Kalyan Hospital And Research Insititute"
+    },
+    {
+      "lat": 30.2917978,
+      "lon": 78.0508983,
+
+      "name": "Kanishk Surgical and Super Speciality Hospital"
+    },
+    {
+      "lat": 30.3143113,
+      "lon": 78.0523923,
+
+      "name": "Kamra`s Urinary and Surgical Diseasea Centre"
+    },
+    {
+      "lat": 30.3236075,
+      "lon": 78.0147126,
+
+      "name": "Ayurmax Multispeciality Hospital"
+    },
+    {
+      "lat": 30.4694358,
+      "lon": 77.766729,
+
+      "name": "Bhandari Hospital"
+    },
+    {
+      "lat": 30.3247211,
+      "lon": 78.0050567,
+
+      "name": "Sanjivani Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3184444,
+      "lon": 78.0290544,
+
+      "name": "Ashadeep Hospital"
+    },
+    {
+      "lat": 30.3153417,
+      "lon": 78.0512014,
+
+      "name": "Sharda Surgical and Urology Centre"
+    },
+    {
+      "lat": 30.310353,
+      "lon": 78.0485205,
+
+      "name": "Oli Eye Hospital"
+    },
+    {
+      "lat": 30.3644053,
+      "lon": 78.0677506,
+
+      "name": "Sanjay Orthopaedic and Spine Centre"
+    },
+    {
+      "lat": 30.3175726,
+      "lon": 78.0333661,
+
+      "name": "Garg ENT and Dental Clinic"
+    },
+    {
+      "lat": 30.3152005,
+      "lon": 78.0513221,
+
+      "name": "Renal Care and Dialysis Center"
+    },
+    {
+      "lat": 30.3125064,
+      "lon": 78.0219506,
+
+      "name": "Shivanjan Hospital"
+    },
+    {
+      "lat": 30.1773948,
+      "lon": 78.1295487,
+
+      "name": "Shed Hospital"
+    },
+    {
+      "lat": 30.3029695,
+      "lon": 78.0214584,
+
+      "name": "SGRR Medical College hospital"
+    },
+    {
+      "lat": 30.3324791,
+      "lon": 78.0223086,
+
+      "name": "Archana Hospital & Lithotripsy Centre"
+    },
+    {
+      "lat": 30.291169,
+      "lon": 78.0579914,
+
+      "name": "Ananda Hospital"
+    },
+    {
+      "lat": 30.3409877,
+      "lon": 78.0593446,
+
+      "name": "Saini Ivf and Fertility Research Centre"
+    },
+    {
+      "lat": 30.2983402,
+      "lon": 78.0530977,
+
+      "name": "Navjyoti Eye Hospital"
+    },
+    {
+      "lat": 30.2919587,
+      "lon": 77.9986905,
+
+      "name": "Minocha Hospital and Maternity Home"
+    },
+    {
+      "lat": 30.3119982,
+      "lon": 78.0480015,
+
+      "name": "Doon Valley Hospital"
+    },
+    {
+      "lat": 30.3183749,
+      "lon": 78.0241728,
+
+      "name": "Prem Sukh B Hospital And Dailysis Centre"
+    },
+    {
+      "lat": 30.3288236,
+      "lon": 78.0524835,
+
+      "name": "S. K. Memorial Hospital"
+    },
+    {
+      "lat": 30.4708691,
+      "lon": 77.7792495,
+
+      "name": "Krishna Surgical Centre"
+    },
+    {
+      "lat": 30.295105,
+      "lon": 78.053028,
+
+      "name": "Lifeline Hospital and Urology Institute"
+    },
+    {
+      "lat": 30.3792619,
+      "lon": 78.0881622,
+
+      "name": "Sakya Hospital"
+    },
+    {
+      "lat": 30.308365,
+      "lon": 78.0491656,
+
+      "name": "Singh Eye Clinic and Hospital"
+    },
+    {
+      "lat": 30.311503,
+      "lon": 77.982168,
+
+      "name": "Government Hospital Mehuwala"
+    },
+    {
+      "lat": 30.4564283,
+      "lon": 78.0809098,
+
+      "name": "St. Marry Hospital Mussoorie"
+    },
+    {
+      "lat": 30.3354898,
+      "lon": 77.9668266,
+
+      "name": "Government Hospital premnagar Dehradun"
+    },
+    {
+      "lat": 30.9429389,
+      "lon": 77.8479762,
+
+      "name": "Government Hospital Tiuni"
+    },
+    {
+      "lat": 30.705156,
+      "lon": 77.854791,
+
+      "name": "Government Hospital Chakrata"
+    },
+    {
+      "lat": 30.3524946,
+      "lon": 77.9363421,
+
+      "name": "Raj Hospital And Diagnostic Centre"
+    },
+    {
+      "lat": 30.3191611,
+      "lon": 78.0430172,
+
+      "name": "Aarogyadham Super Speciality Hospital"
+    },
+    {
+      "lat": 30.2686878,
+      "lon": 78.0787419,
+
+      "name": "Ghavle Hospital"
+    },
+    {
+      "lat": 30.346949,
+      "lon": 77.9664382,
+
+      "name": "Lakva Hospital"
+    },
+    {
+      "lat": 30.3343136,
+      "lon": 77.9673178,
+
+      "name": "Vohra Mother & Child Care Hospital"
+    },
+    {
+      "lat": 30.3287647,
+      "lon": 78.0659147,
+
+      "name": "Healing Touch Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3167914,
+      "lon": 78.0437622,
+
+      "name": "CMI Hospital"
+    },
+    {
+      "lat": 30.2713518,
+      "lon": 78.0807579,
+
+      "name": "Doon Public Hospital"
+    },
+    {
+      "lat": 30.3437396,
+      "lon": 77.9664615,
+
+      "name": "Subharti Hospital and College"
+    },
+    {
+      "lat": 30.288311,
+      "lon": 78.064203,
+
+      "name": "Kailash Hospital, Dehradun"
+    },
+    {
+      "lat": 30.2811131,
+      "lon": 78.0712299,
+
+      "name": "Nethra Jovan Eyes Hospital"
+    },
+    {
+      "lat": 30.3174427,
+      "lon": 78.046923,
+
+      "name": "Dr. Ajay Sharma Hospital"
+    },
+    {
+      "lat": 30.3375992,
+      "lon": 78.0138545,
+
+      "name": "Synergy Hospital"
+    },
+    {
+      "lat": 30.3378635,
+      "lon": 77.9593852,
+
+      "name": "Government Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3196861,
+      "lon": 78.0503125,
+
+      "name": "City Heart Centre"
+    },
+    {
+      "lat": 30.3299169,
+      "lon": 78.0299292,
+
+      "name": "Luthra Maternity & Infertility Centre"
+    },
+    {
+      "lat": 30.3354477,
+      "lon": 78.0167854,
+
+      "name": "ONGC Hospital"
+    },
+    {
+      "lat": 30.310123,
+      "lon": 78.045445,
+
+      "name": "Param Hospital"
+    },
+    {
+      "lat": 30.320661,
+      "lon": 78.057667,
+
+      "name": "Fortis Escorts Hospital, Dehradun"
+    },
+    {
+      "lat": 30.3342006,
+      "lon": 78.0812465,
+
+      "name": "Government Hospital, Rahat"
+    },
+    {
+      "lat": 30.3519545,
+      "lon": 78.0665833,
+
+      "name": "Dr Smriti Eye Centre"
+    },
+    {
+      "lat": 30.3206193,
+      "lon": 78.0417924,
+
+      "name": "ART Plus Centre"
+    },
+    {
+      "lat": 30.3206591,
+      "lon": 78.0418042,
+
+      "name": "ART Plus Centre Doon Hospital"
+    },
+    {
+      "lat": 30.3352245,
+      "lon": 78.0159348,
+
+      "name": "Archit Clinic"
+    },
+    {
+      "lat": 30.3286997,
+      "lon": 78.0660533,
+
+      "name": "healing touch HOSPITAL"
+    },
+    {
+      "lat": 30.3321602,
+      "lon": 78.0595528,
+
+      "name": "VAISH NURSING HOME"
+    },
+    {
+      "lat": 30.2994218,
+      "lon": 78.0520814,
+
+      "name": "Dr. Vineet Kala"
+    },
+    {
+      "lat": 30.0903364,
+      "lon": 78.2736127,
+
+      "name": "Rana eye center"
+    },
+    {
+      "lat": 30.0987913,
+      "lon": 78.2884113,
+
+      "name": "Neeraj epilepsy clinic"
+    },
+    {
+      "lat": 30.2864273,
+      "lon": 78.0480676,
+
+      "name": "Medical Store"
+    },
+    {
+      "lat": 30.0691971,
+      "lon": 78.2771924,
+
+      "name": "Seema dental college and hospital"
+    },
+    {
+      "lat": 30.3763701,
+      "lon": 78.0671501,
+
+      "name": "Tulas owner"
+    },
+    {
+      "lat": 30.3737695,
+      "lon": 78.0748083,
+
+      "name": "Max Super Speciality Hospital"
+    },
+    {
+      "lat": 30.1087285,
+      "lon": 78.2959302,
+
+      "name": "S.P.S Government Hospital Rishikesh"
+    },
+    {
+      "lat": 30.1120951,
+      "lon": 78.2941363,
+
+      "name": "Joshi Surgicial and Maternity Center"
+    },
+    {
+      "lat": 30.0981397,
+      "lon": 78.2879645,
+
+      "name": "Bharadwaj Hospital and Maternity Home"
+    },
+    {
+      "lat": 30.1143201,
+      "lon": 78.292536,
+
+      "name": "Puri Sanjivani Hospital"
+    },
+    {
+      "lat": 30.1120204,
+      "lon": 78.2935133,
+
+      "name": "Dashmesh Hospital and Sandhu Surgicial Center"
+    },
+    {
+      "lat": 30.1077707,
+      "lon": 78.3005823,
+
+      "name": "Sri Krishna Sewa Ashram Hospital"
+    },
+    {
+      "lat": 30.1044439,
+      "lon": 78.3032741,
+
+      "name": "Nirmal Ashram Hospital"
+    },
+    {
+      "lat": 30.0779929,
+      "lon": 78.2840323,
+
+      "name": "All India Institute of Medical Sciences, Rishikesh"
+    },
+    {
+      "lat": 30.1926589,
+      "lon": 78.1656733,
+
+      "name": "Himalayan Institute Hospital Trust"
+    },
+    {
+      "lat": 30.3504655,
+      "lon": 77.8903136,
+
+      "name": "Graphic Era Institue Of Medical Sciences"
+    },
+    {
+      "lat": 30.345568,
+      "lon": 77.8988687,
+
+      "name": "Shivalik Hospital (Ayurvedic)"
+    },
+    {
+      "lat": 30.3399881,
+      "lon": 78.037881,
+
+      "name": "Disaster Relief Center"
+    }
+  ]
+}

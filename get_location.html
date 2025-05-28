@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Get My Location</title>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+</head>
+<body>
+  <h2>Get My Location</h2>
+  <button onclick="getLocation()">Send My Location to Firebase</button>
+  <p id="status"></p>
+  <script>
+    var firebaseConfig = {
+      apiKey: "AIzaSyDSyhmfzMMX3jAWHloCaXsbpTe9DruzvhY",
+      authDomain: "resqtrack-465fd.firebaseapp.com",
+      databaseURL: "https://resqtrack-465fd-default-rtdb.firebaseio.com/",
+      projectId: "resqtrack-465fd",
+      storageBucket: "resqtrack-465fd.appspot.com",
+      messagingSenderId: "287329544170",
+      appId: "1:287329544170:android:fb5c36ecb0dcb4a6c17493"
+    };
+    firebase.initializeApp(firebaseConfig);
+
+    function getLocation() {
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(sendToFirebase, showError);
+        document.getElementById("status").innerText = "Getting location...";
+      } else {
+        document.getElementById("status").innerText = "Geolocation is not supported by this browser.";
+      }
+    }
+
+    function sendToFirebase(position) {
+      var lat = position.coords.latitude;
+      var lon = position.coords.longitude;
+      firebase.database().ref('patient_location').set({
+        lat: lat,
+        lon: lon,
+        timestamp: Date.now()
+      });
+      document.getElementById("status").innerText = "Location sent! (" + lat + ", " + lon + ")";
+    }
+
+    function showError(error) {
+      document.getElementById("status").innerText = "Error getting location.";
+    }
+  </script>
+</body>
+</html>
